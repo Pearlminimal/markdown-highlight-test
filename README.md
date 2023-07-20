@@ -48,7 +48,7 @@
 > This is important!
 ```
 
-> [!NOTE]
+> [!NOTE]  
 > This is a note!  
 > With **two** paragraphs and some *emphasizing*.
 
