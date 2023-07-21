@@ -123,3 +123,55 @@
 > <strong><a href="#">Note</a></strong>  
 > Wrapping a link with `strong` tag
 ```
+
+> Ignored text **Note**  
+> There is text before the title
+
+```
+> Ignored text **Note**  
+> There is text before the title
+```
+
+> First line   
+> second line **Note**  
+> third line
+
+```
+> First line   
+> second line **Note**  
+> third line
+```
+
+>>> **NOTE**  
+>>> Nested blockquotes
+
+```
+>>> **NOTE**  
+>>> Nested blockquotes
+```
+
+> Ignored text [!NOTE]  
+> There is text before the title
+
+```
+> Ignored text [!NOTE]  
+> There is text before the title
+```
+
+> First line   
+> second line [!NOTE]  
+> third line
+
+```
+> First line   
+> second line [!NOTE]  
+> third line
+```
+
+>>> [!NOTE]  
+>>> This is NOTE!
+
+```
+>>> [!NOTE]  
+>>> Nested blockquotes
+```
