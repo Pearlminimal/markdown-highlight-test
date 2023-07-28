@@ -175,3 +175,9 @@
 >>> [!NOTE]  
 >>> Nested blockquotes
 ```
+
+> **Warning**:
+> test
+
+> **Note**:
+> test
