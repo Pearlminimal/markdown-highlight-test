@@ -75,11 +75,11 @@
 ```
 
 >>> [!NOTE]  
->>> This is NOTE!
+>>> This is a note!
 
 ```
 >>> [!NOTE]  
->>> Nested blockquotes
+>>> This is a note!
 ```
 
 ## Non Highlights
@@ -176,12 +176,13 @@
 > third line
 ```
 
-> **Warning**:
-> test
+> [!WARNING]:
+> This is not a warning because there is something other than the type in the first line.
 
-> **Note**:
-> test
-
+```
+> [!WARNING]:
+> This is not a warning because there is something other than the type in the first line.
+```
 
 > **Warning**:
 > To run **DiscordChatExporter** on macOS and Linux, you need to make sure that **.NET 7.0 Runtime** is installed.
