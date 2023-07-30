@@ -66,6 +66,22 @@
 > With **two** paragraphs and some *emphasizing*.
 ```
 
+>>> **NOTE**  
+>>> Nested blockquotes eliminate the nesting and render an alert
+
+```
+>>> **NOTE**  
+>>> Nested blockquotes eliminate the nesting and render an alert
+```
+
+>>> [!NOTE]  
+>>> This is NOTE!
+
+```
+>>> [!NOTE]  
+>>> Nested blockquotes
+```
+
 ## Non Highlights
 
 > ***Note***  
@@ -142,14 +158,6 @@
 > third line
 ```
 
->>> **NOTE**  
->>> Nested blockquotes
-
-```
->>> **NOTE**  
->>> Nested blockquotes
-```
-
 > Ignored text [!NOTE]  
 > There is text before the title
 
@@ -166,14 +174,6 @@
 > First line   
 > second line [!NOTE]  
 > third line
-```
-
->>> [!NOTE]  
->>> This is NOTE!
-
-```
->>> [!NOTE]  
->>> Nested blockquotes
 ```
 
 > **Warning**:
