@@ -204,8 +204,17 @@
 > - a list
 ```
 
+> [!NOTE] This is not a note because it's all in a single line
 
+```
+> [!NOTE] This is not a note because it's all in a single line
+```
 
+> [!NOTE]
+
+```
+> [!NOTE]
+```
 
 
 
