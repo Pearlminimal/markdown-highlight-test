@@ -82,6 +82,16 @@
 >>> This is a note!
 ```
 
+> [!WARNING]
+> A first line
+> - a list
+
+```
+> [!WARNING]
+> A first line
+> - a list
+```
+
 ## Non Highlights
 
 > ***Note***  
@@ -184,14 +194,15 @@
 > This is not a warning because there is something other than the type in the first line.
 ```
 
-> **Warning**:
-> To run **DiscordChatExporter** on macOS and Linux, you need to make sure that **.NET 7.0 Runtime** is installed.
-> You can download it here:
-[ NET 7.0 Runtime for **macOS ×64**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.101-macos-×64-installer)
-[ •NET 7.0 Runtime for **macOS Arm64**](https: //dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.101-macos-arm64-installer)
-I NET 7.0 Runtime for **Linux**](https://docs.microsoft.com/en-us/dotnet/core/install/linux) (find the correct download for your distro)
-> This should not be necessary if you install **DiscordChatExporter** using a package manager, as it should take care of the dependencies for you.
-> This is also not
+> [!WARNING]:
+> This is not a warning because there is something other than the type in the first line.
+> - a list
+
+```
+> [!WARNING]:
+> This is not a warning because there is something other than the type in the first line.
+> - a list
+```
 
 
 
