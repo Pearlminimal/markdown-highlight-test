@@ -48,6 +48,14 @@
 > This is important!
 ```
 
+> [!NOTE]
+> This is a note with a soft line break!
+
+```markdown
+> [!NOTE]
+> This is a note with a soft line break!
+```
+
 > [!NOTE]  
 > This is a note!  
 > With **two** paragraphs and some *emphasizing*.
@@ -98,14 +106,6 @@
 ```markdown
 > <strong><q>**Warning**</q></strong>  
 > This is not a warning but some mixture with allowed HTML
-```
-
-> [!NOTE]
-> This is not a note because a line break is missing!
-
-```markdown
-> [!NOTE]
-> This is not a note because a line break is missing!
 ```
 
 > <strong>[!NOTE]</strong>  
