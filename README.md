@@ -7,8 +7,6 @@
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
-
-
 ## Highlights
 
 > **Note**  
@@ -101,6 +99,44 @@
 > [!WARNING]
 > A first line
 > - a list
+```
+
+### Using other filters
+
+> [!NOTE]
+> $\sqrt{3x-1}+(1+x)^2$
+
+```
+> [!NOTE]
+> $\sqrt{3x-1}+(1+x)^2$
+```
+
+> [!NOTE]
+> ![gif](https://user-images.githubusercontent.com/3369400/269611126-4acf644b-b6c8-489c-874d-d66498345a2b.gif)
+
+```
+> [!NOTE]
+> ![gif](https://user-images.githubusercontent.com/3369400/269611126-4acf644b-b6c8-489c-874d-d66498345a2b.gif)
+```
+
+> [!NOTE]
+> ```HTML
+> <a href="#">link</a>
+> ```
+
+```
+> [!NOTE]
+> ```HTML
+> <a href="#">link</a>
+> ```
+```
+
+> [!NOTE]
+> - [ ] task
+
+```
+> [!NOTE]
+> - [ ] task
 ```
 
 ## Non Highlights
